@@ -1,1 +1,1 @@
-# CRUD operations for events and campagins using php.
+# CRUD operations for events and campagins using php for charity funding project for college.
